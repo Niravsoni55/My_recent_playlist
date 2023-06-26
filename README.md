@@ -20,7 +20,7 @@ test_recently_played.py
 
 1. Clone the repository: 
 
-    https://github.com/Niravsoni55/My_recent_Songs
+    https://github.com/Niravsoni55/My_recent_playlist
 
 2. Change into the project directory: 
 
